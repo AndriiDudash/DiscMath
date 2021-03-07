@@ -1,2 +1,2 @@
 # DiscMath
-fjdfjdkfkel
+Project designed for the C practical course programming
